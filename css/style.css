@@ -1,0 +1,14 @@
+h1{
+    color: #0000ff;
+    width: 100%;
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 2em;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.red{
+    color: #ff0000;
+}
